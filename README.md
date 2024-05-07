@@ -10,17 +10,6 @@
   </p>
 </div>
 
-
-
 ## ❗ Issues
 
-<p align="center">
-  <img src="images/iPod.png" alt="iPod">
-</p>
-
-There is a lot of confusion with the original instruction guide linked above, so this guide will solve all the confusion :smile:
-
-<b>Here's why:</b>
-* Short and easy to follow steps
-* Saves time and reduces errors
-* Simple copy and pasting
+The main issues I'm experiencing is 
