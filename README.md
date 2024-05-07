@@ -12,4 +12,8 @@
 
 ## ❗ Issues
 
-The main issues I'm experiencing is 
+Unfortuantly I cannot progress further in my project due to the following problems…
+
+<b>Problems</b>
+* Cannot get `App.tsx` to run within a webpage and display my code
+* Webpage not recognizing the `react` dependency I included
