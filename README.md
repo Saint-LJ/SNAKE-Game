@@ -28,21 +28,17 @@
 
 Open your terminal app and do the following
 
-1. Use the `git clone` command
+1. Use the `git clone` command, to download this project
 ```sh
 git clone https://github.com/Saint-LJ/Snake-Game
 ```
-2. Navigate to `/project` directory via this command
+2. Navigate to `/project` directory
 ```sh
 cd ./Snake-Game/project/
 ```
-3. Then, run the following command
+3. Finally, build and run the game
 ```sh
-npm install
-```
-4. Finally, run the command:
-```sh
-npm start
+npm install && npm start
 ```
 
 <br />
