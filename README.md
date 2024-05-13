@@ -36,8 +36,9 @@ brew install node
 
 ## 🔨 How to build
 
-1. Open your terminal
-2. Use the `git clone` command
+Open your terminal app and do the following
+
+1. Use the `git clone` command
 ```sh
 git clone https://github.com/Saint-LJ/Snake-Game
 ```
