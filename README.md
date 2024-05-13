@@ -40,7 +40,7 @@ cd ./Snake-Game/project/
 ```sh
 npm install
 ```
-4. Finally, open `public/index.html` <b>OR</b> run the command:
+4. Finally, run the command:
 ```sh
 npm start
 ```
