@@ -28,5 +28,5 @@ npm install react && tsc
 ## ❗ Issues
 
 Unfortuantly I cannot progress further in my project due to the following problems…
-* Cannot get `App.tsx` to run within a webpage and display my code
-* Webpage not recognizing the `react` dependency I included
+* After compilation, I cannot get `project/dist/index.js` to run within a webpage and display my code
+* Webpage not recognizing the `react` dependency I included via `npm start`
