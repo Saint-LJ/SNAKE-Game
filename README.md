@@ -10,7 +10,7 @@
   </p>
 </div>
 
-## 🖥️ Dependencies
+# 🖥️ Dependencies
 * <a aria-label="Homebrew" href="https://git-scm.com/downloads">`git`</a>
 * <a aria-label="npm" href="https://docs.npmjs.com/downloading-and-installing-node-js-and-npm">`npm`</a>
 
