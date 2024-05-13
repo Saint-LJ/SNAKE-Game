@@ -13,12 +13,9 @@
 ## 🔨 How to build
 
 Once you `git clone` the repository and you're in `./project` directory
-Run the following commands, one-by-one
+Run the following command
 ```sh
-npm install react
-```
-```sh
-tsc
+npm install react && tsc
 ```
 
 ## ❗ Issues
