@@ -38,10 +38,12 @@ brew install node
 
 1. Open your terminal
 <br />
+<br />
 2. Use the `git clone` command
 ```sh
 git clone https://github.com/Saint-LJ/Snake-Game
 ```
+<br />
 <br />
 2. Navigate to `/project` directory via this command
 ```sh
