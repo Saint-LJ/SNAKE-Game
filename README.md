@@ -12,16 +12,25 @@
 
 ## 🔨 How to build
 
-1. Use `git clone` using the\is repository link
+1. Use `git clone` command
+```sh
+git clone https://github.com/Saint-LJ/Snake-Game
+```
 
 
-2. Then, within this repo's directory, navigate to `./project` directory
+2. Open a terminal within the Repo's directory, and navigate to `./project` via this command
+```sh
+cd ./project
+```
 
 
-3. Run the following command
+3. Then, run the following command
 ```sh
 npm install react && tsc
 ```
+
+4. Finally, open `index.html`
+
 
 
 
