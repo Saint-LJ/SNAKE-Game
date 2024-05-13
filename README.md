@@ -47,7 +47,7 @@ cd ./Snake-Game/project/
 ```
 3. Then, run the following command
 ```sh
-npm install && npm tsc
+npm install && tsc
 ```
 4. Finally, open `index.html` OR type
 ```sh
