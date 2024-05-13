@@ -28,7 +28,7 @@
 
 Open your terminal app and do the following
 
-1. Use the `git clone` command, to download this project
+1. Using `git clone` to download this project
 ```sh
 git clone https://github.com/Saint-LJ/Snake-Game
 ```
