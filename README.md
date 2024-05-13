@@ -37,24 +37,18 @@ brew install node
 ## 🔨 How to build
 
 1. Open your terminal
-<br />
-<br />
 2. Use the `git clone` command
 ```sh
 git clone https://github.com/Saint-LJ/Snake-Game
 ```
-<br />
-<br />
 2. Navigate to `/project` directory via this command
 ```sh
 cd ./Snake-Game/project/
 ```
-<br />
 3. Then, run the following command
 ```sh
 npm install react && tsc
 ```
-<br />
 4. Finally, open `index.html`
 
 <br />
