@@ -18,7 +18,7 @@
 <br />
 
 ## ⚠️ Disclaimer
-* These commands are only tested on macOS *(using specifically zsh… not bash, etc)*
+* These commands are only tested on macOS *(powered by <a href="https://brew.sh">`🍺Homebrew`</a>)*
 * I have no idea whether it works for `Linux Terminal` or `Windows WSL`
 
 <br />
