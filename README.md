@@ -35,8 +35,8 @@ brew install node
 <br />
 
 ## ⚠️ Disclaimer
-* These commands are only tested on macOS
-* I have no idea whether it works for Linux's terminal or Window's WSL
+* These commands are only tested on macOS (zsh, not bash)
+* I have no idea whether it works for `Linux Terminal` or `Windows WSL`
 
 <br />
 <br />
