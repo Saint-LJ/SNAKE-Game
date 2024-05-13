@@ -12,15 +12,18 @@
 
 ## 🔨 How to build
 
-1. Use `git clone` command
+1. Open your terminal
+
+
+2. Use the `git clone` command
 ```sh
 git clone https://github.com/Saint-LJ/Snake-Game
 ```
 
 
-2. Open a terminal within the Repo's directory, and navigate to `./project` via this command
+2. Navigate to `/project` directory via this command
 ```sh
-cd ./project
+cd ./Snake-Game/project/
 ```
 
 
