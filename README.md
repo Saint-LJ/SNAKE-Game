@@ -50,4 +50,6 @@ npm start
 
 ## ❗ Issues
 
-* BUGS
+* Food System broken
+* Tail System broken
+* AI not implemented 
