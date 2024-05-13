@@ -11,9 +11,6 @@
 </div>
 
 ### Dependencies
-
-For the following terminal commands to work, you must install:
-
 * <a aria-label="Homebrew" href="https://brew.sh">`🍺 Homebrew`</a>
 * <a aria-label="npm" href="https://docs.npmjs.com/downloading-and-installing-node-js-and-npm">`npm`</a>
 
