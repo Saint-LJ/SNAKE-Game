@@ -10,7 +10,7 @@
   </p>
 </div>
 
-## 🚀 Dependencies
+### 🚀 Dependencies
 
 For the following commands to work, you must install:
 
@@ -59,4 +59,4 @@ npm install react && tsc
 
 Unfortuantly I cannot progress further in my project due to the following problems…
 * After compilation, I cannot get `project/dist/index.js` to run within a webpage and display my code
-* Webpage not recognizing the `react` dependency I included via `npm start`
+* Webpage …may… not recognizing the `react` dependency when I use `npm start`
