@@ -24,7 +24,7 @@
 <br />
 <br />
 
-## 🔨 How to build
+## 🔨 How to build & run
 
 Open your terminal app and do the following
 
