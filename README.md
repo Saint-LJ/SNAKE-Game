@@ -18,17 +18,9 @@ For the following terminal commands to work, you must install:
 ```sh
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
-
-
 * <a aria-label="npm" href="https://www.npmjs.com">`npm`</a>
 ```sh
 brew install npm
-```
-
-
-* <a aria-label="node" href="https://nodejs.org/en">`node`</a>
-```sh
-brew install node
 ```
 
 <br />
@@ -55,15 +47,16 @@ cd ./Snake-Game/project/
 ```
 3. Then, run the following command
 ```sh
-npm install react && tsc
+npm install && npm tsc
 ```
-4. Finally, open `index.html`
+4. Finally, open `index.html` OR type
+```sh
+npm start
+```
 
 <br />
 <br />
 
 ## ❗ Issues
 
-Unfortuantly I cannot progress further in my project due to the following problems…
-* After compilation, I cannot get `project/dist/index.js` to run within a webpage and display my code
-* Webpage …may… not recognizing the `react` dependency when I use `npm start`
+* BUGS
