@@ -18,11 +18,15 @@ For the following commands to work, you must install:
 ```sh
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
-* <a aria-label="npm" href="https://www.npmjs.com">`🔴 npm`</a>
+
+
+* <a aria-label="npm" href="https://www.npmjs.com">`npm`</a>
 ```sh
 brew install npm
 ```
-* <a aria-label="node" href="https://nodejs.org/en">`🔨🟢 node`</a>
+
+
+* <a aria-label="node" href="https://nodejs.org/en">`node`</a>
 ```sh
 brew install node
 ```
