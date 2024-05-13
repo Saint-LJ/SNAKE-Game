@@ -10,7 +10,7 @@
   </p>
 </div>
 
-### Dependencies
+## 🚀 Dependencies
 
 For the following commands to work, you must install:
 
@@ -32,9 +32,6 @@ brew install node
 ```
 
 <br />
-
-## 🚀 Getting Started
-
 
 ## 🔨 How to build
 
