@@ -17,7 +17,7 @@
 <br />
 <br />
 
-### ⚠️ Disclaimer
+# ⚠️ Disclaimer
 * These terminal commands were only tested using `zsh` on `macOS` **(using <a href="https://brew.sh">`🍺Homebrew`</a>)**
 * I have no idea whether it works for `Linux Terminal` or `Windows WSL`
 
