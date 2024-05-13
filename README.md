@@ -10,7 +10,7 @@
   </p>
 </div>
 
-### 🚀 Dependencies
+### Dependencies
 
 For the following commands to work, you must install:
 
@@ -30,6 +30,13 @@ brew install npm
 ```sh
 brew install node
 ```
+
+<br />
+<br />
+
+## ⚠️ Disclaimer
+* These commands are only tested on macOS
+* I have no idea whether it works for Linux's terminal or Window's WSL
 
 <br />
 <br />
