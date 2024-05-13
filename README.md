@@ -10,21 +10,21 @@
   </p>
 </div>
 
-# 🖥️ Dependencies
+### Dependencies
 * <a aria-label="Homebrew" href="https://git-scm.com/downloads">`git`</a>
 * <a aria-label="npm" href="https://docs.npmjs.com/downloading-and-installing-node-js-and-npm">`npm`</a>
 
 <br />
 <br />
 
-## ⚠️ Disclaimer
+### ⚠️ Disclaimer
 * These terminal commands were only tested using `zsh` on `macOS` **(using <a href="https://brew.sh">`🍺Homebrew`</a>)**
 * I have no idea whether it works for `Linux Terminal` or `Windows WSL`
 
 <br />
 <br />
 
-## 🔨 How to build & run
+## 🔨 How to Build & Run
 
 Open your terminal app and do the following
 
