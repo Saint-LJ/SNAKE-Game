@@ -30,7 +30,7 @@ brew install npm
 ```sh
 brew install node
 ```
-
+<br />
 <br />
 
 ## 🔨 How to build
