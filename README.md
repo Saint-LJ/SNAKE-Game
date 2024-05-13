@@ -12,8 +12,9 @@
 
 ## 🔨 How to build
 
-Once you `git clone` the repository and you're in `./project` directory
-Run the following command
+1. Use `git clone` using the\is repository link
+2. Then, within this repo's directory, navigate to `./project` directory
+3. Run the following command
 ```sh
 npm install react && tsc
 ```
