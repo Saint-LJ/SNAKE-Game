@@ -10,6 +10,28 @@
   </p>
 </div>
 
+### Dependencies
+
+For the following commands to work, you must install:
+
+* <a aria-label="Homebrew" href="https://brew.sh">`🍺 Homebrew`</a>
+```sh
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+```
+* <a aria-label="npm" href="https://www.npmjs.com">`🔴 npm`</a>
+```sh
+brew install npm
+```
+* <a aria-label="node" href="https://nodejs.org/en">`🔨🟢 node`</a>
+```sh
+brew install node
+```
+
+<br />
+
+## 🚀 Getting Started
+
+
 ## 🔨 How to build
 
 1. Open your terminal
