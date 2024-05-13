@@ -12,7 +12,7 @@
 
 ### Dependencies
 
-For the following commands to work, you must install:
+For the following terminal commands to work, you must install:
 
 * <a aria-label="Homebrew" href="https://brew.sh">`🍺 Homebrew`</a>
 ```sh
@@ -35,7 +35,7 @@ brew install node
 <br />
 
 ## ⚠️ Disclaimer
-* These commands are only tested on macOS (zsh, not bash)
+* These commands are only tested on macOS *(using specifically zsh… not bash, etc)*
 * I have no idea whether it works for `Linux Terminal` or `Windows WSL`
 
 <br />
