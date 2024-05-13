@@ -10,6 +10,17 @@
   </p>
 </div>
 
+## 🔨 How to build
+
+Once you `git clone` the repository and you're in `./project` directory
+Run the following commands, one-by-one
+```sh
+npm install react
+```
+```sh
+tsc
+```
+
 ## ❗ Issues
 
 Unfortuantly I cannot progress further in my project due to the following problems…
