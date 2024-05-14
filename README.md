@@ -52,7 +52,7 @@ npm install && npm start
 - [x] End-User Experience Design 
 - [x] Drawing World/Player
 - [x] Handling User Input
-- [] Food System
-- [] Grow/Tail System
-- [] AI Snake
-- [] Multiplayer
+- [ ] Food System
+- [ ] Grow/Tail System
+- [ ] AI Snake
+- [ ] Multiplayer
