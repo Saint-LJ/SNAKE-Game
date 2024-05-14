@@ -47,16 +47,22 @@ npm install && npm start
 <br />
 <br />
 
-## 🚧 Progress
+## 🚧 Progression
 
 - [x] End-User Experience Design 
 - [x] Drawing World/Player
 - [x] Handling User Input
+
+In Progress
 > - [ ] Food System (in progress)
 > - [ ] Collision System (fixing bug in progress)
+
+<br />
+
 - [ ] Grow/Tail System
 - [ ] AI Snake
 - [ ] Multiplayer
+
 <br />
 
-- [ ] Completed
+- [ ] 🏁 Completed
