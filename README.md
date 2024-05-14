@@ -49,10 +49,10 @@ npm install && npm start
 
 ## 🚧 Progress
 
-[x] End-User Experience Design 
-[x] Drawing World/Player
-[x] Handling User Input
-[] Food System
-[] Grow/Tail System
-[] AI Snake
-[] Multiplayer
+- [x] End-User Experience Design 
+- [x] Drawing World/Player
+- [x] Handling User Input
+- [] Food System
+- [] Grow/Tail System
+- [] AI Snake
+- [] Multiplayer
