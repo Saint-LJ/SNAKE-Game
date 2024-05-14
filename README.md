@@ -47,8 +47,12 @@ npm install && npm start
 <br />
 <br />
 
-## ❗ Issues
+## 🚧 Progress
 
-* Food System broken
-* Tail System broken
-* AI not implemented 
+[x] End-User Experience Design 
+[x] Drawing World/Player
+[x] Handling User Input
+[] Food System
+[] Grow/Tail System
+[] AI Snake
+[] Multiplayer
