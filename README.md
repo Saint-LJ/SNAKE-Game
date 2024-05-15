@@ -49,6 +49,8 @@ npm install && npm start
 
 ## 🚧 Project Progression
 
+Everything is implemented, but I have to do a lot of fixing of bugs
+
 - [x] End-User Experience Design 
 - [x] Drawing World/Player
 - [x] Handling User Input
