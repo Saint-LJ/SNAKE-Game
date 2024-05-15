@@ -20,6 +20,9 @@ function App() {
         const canvasWorldView = new CanvasWorldView(worldDimensions);
         world.addView(canvasWorldView);
 
+        /**
+         * @note this is just test code, to see if the food shows on screen
+         */
         const food = new Food(2, 2);
         world.addFood(food);
 
