@@ -55,12 +55,7 @@ Everything is implemented, but I have to do a lot of fixing of bugs
 - [x] Drawing World/Player
 - [x] Handling User Input
 
-<br />
-
-**In Progress**
-> - [ ] Food System (buggy)
-
-<br />
+> - [ ] Food System (in progress: buggy)
 
 - [ ] Collision System
 - [ ] Grow/Tail System
