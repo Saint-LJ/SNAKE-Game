@@ -57,10 +57,10 @@ npm install && npm start
 
 **In Progress**
 > - [ ] Food System (buggy)
-> - [ ] Collision System (broken)
 
 <br />
 
+- [ ] Collision System
 - [ ] Grow/Tail System
 - [ ] AI Snake
 - [ ] Multiplayer
