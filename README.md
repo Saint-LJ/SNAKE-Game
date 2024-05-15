@@ -56,8 +56,8 @@ npm install && npm start
 <br />
 
 **In Progress**
-> - [ ] Food System (implementing)
-> - [ ] Collision System (fixing bug)
+> - [ ] Food System (buggy)
+> - [ ] Collision System (broken)
 
 <br />
 
